@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @gs6651
 - 👀 I’m interested in Python Daily Use Projects, Applications and other stuff.
-- 🌱 I’m currently learning Python, Data Science, Stock Market
-- 💞️ I’m looking to collaborate on Python,
+- 🌱 I’m currently learning Python and Stock Market
 - 📫 How to reach me ...
 
 <!---
