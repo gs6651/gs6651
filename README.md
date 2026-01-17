@@ -33,7 +33,7 @@ Welcome to my specialized Linux & Networking workspace. I've organized my "Secon
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
 - 📚 **Total Books:** 40
-**The Forge.** This is my central command hub. It contains my `system-forge.sh` automation script which I use to provision and optimize fresh Ubuntu and Fedora installations in minutes.
+**The Forge.** This is my central command hub. It contains my \`system-forge.sh\` automation script.
 - ✅ **Read:** 0 Books
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
@@ -48,7 +48,7 @@ Welcome to my specialized Linux & Networking workspace. I've organized my "Secon
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
 - 📚 **Total Books:** 40
-**The Vault.** (Private) My deep-dive repository for networking architecture, packet analysis, and enterprise infrastructure notes.
+**The Vault.** (Private) My deep-dive repository for networking architecture and packet analysis.
 - ✅ **Read:** 0 Books
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
@@ -63,7 +63,7 @@ Welcome to my specialized Linux & Networking workspace. I've organized my "Secon
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
 - 📚 **Total Books:** 40
-**The Journey.** A public log of my guitar progress, music theory studies, and transcriptions.
+**The Journey.** A public log of my guitar progress and music theory studies.
 - ✅ **Read:** 0 Books
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
@@ -78,7 +78,7 @@ Welcome to my specialized Linux & Networking workspace. I've organized my "Secon
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
 - 📚 **Total Books:** 40
-**The Library.** A curated collection of book summaries, knowledge synthesis, and general learning.
+**The Library.** A curated collection of book summaries and knowledge synthesis.
 - ✅ **Read:** 0 Books
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
@@ -103,7 +103,7 @@ Welcome to my specialized Linux & Networking workspace. I've organized my "Secon
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
 - 📚 **Total Books:** 40
-I use a custom-built `gitsync` tool (found in Terminal-Center) to keep all four repositories synchronized across my Linux and Windows environments with a single command.
+I use a custom-built \`gitsync\` tool to keep all repositories synchronized with a single command.
 - ✅ **Read:** 0 Books
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
@@ -113,7 +113,7 @@ I use a custom-built `gitsync` tool (found in Terminal-Center) to keep all four 
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
 - 📚 **Total Books:** 40
-- **OS:** Ubuntu 25.10 / Fedora 43
+- **OS:** Ubuntu / Fedora
 - ✅ **Read:** 0 Books
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
@@ -124,11 +124,6 @@ I use a custom-built `gitsync` tool (found in Terminal-Center) to keep all four 
 - ⏳ **Yet to Start:** 40 Books
 - 📚 **Total Books:** 40
 - **Tools:** VS Code, GNOME, Custom Forge Scripts
-- ✅ **Read:** 0 Books
-- 📖 **Currently Reading:** 0 Books
-- ⏳ **Yet to Start:** 40 Books
-- 📚 **Total Books:** 40
-
 - ✅ **Read:** 0 Books
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
