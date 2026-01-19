@@ -1,0 +1,3 @@
+
+# Keep these files LF on all platforms
+.gitignore text eol=lf
