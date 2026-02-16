@@ -27,7 +27,7 @@ I approach the guitar through the lens of structural analysis. To me, music theo
 ---
 
 ### 📚 My Reading Journey
-- ? **Read:** 0 Books
-- ?? **Currently Reading:** 0 Books
-- ? **Yet to Start:** 40 Books
-- ?? **Total Books:** 40
+- ✅ **Read:** 0 Books
+- 📖 **Currently Reading:** 0 Books
+- ⏳ **Yet to Start:** 40 Books
+- 📚 **Total Books:** 40
