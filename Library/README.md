@@ -2,11 +2,8 @@
 
 Welcome to my personal knowledge sanctuary! 
 
-<<<<<<< Updated upstream
-> "Honor is the foundation of courage." � *Amelia Earhart* ???
-=======
+> "Honor is the foundation of courage." � *Amelia Earhart* ???
 > "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light." — *Albus Dumbledore* 🏛️
->>>>>>> Stashed changes
 
 ## 📋 Books_to_Read.md
 
@@ -15,5 +12,6 @@ Welcome to my personal knowledge sanctuary!
 - 📖 **Currently Reading:** 0 Books
 - ⏳ **Yet to Start:** 40 Books
 - 📚 **Total Books:** 40
+
 ## 🛠️ How to Use
 Feel free to browse the summaries!
