@@ -4,10 +4,9 @@
 ![github contribution grid snake animation](https://github.com/gs6651/gs6651/blob/output/github-contribution-grid-snake.svg)
 
 ### 🎸 Music & Math
-I love exploring how music works. To me, the Guitar 🎸 is like a mathematical grid where sounds and rhythms create patterns. I enjoy studying music theory to understand the "science" behind every song I play! 🎶⚡
+I love exploring how music works. To me, the Guitars 🎸 are like a mathematical grid where sounds and rhythms create patterns. I enjoy studying music theory to understand the "science" behind every song I play! 🎶⚡
 
 > **Network Engineer by profession 🌐 | Guitarist by heart 🎸**
-
 
 ---
 
@@ -23,8 +22,9 @@ I love exploring how music works. To me, the Guitar 🎸 is like a mathematical 
 **The Vault.** 🔒 Deep-dives into networking architecture, packet analysis, and signal flow. 🛰️
 
 ---
+
 ### 📚 My Reading Journey 📜
-- ✅ **Read:** 0 Books
+- ✅ **Read:** 9 Books
 - 📖 **Currently Reading:** 0 Books
-- ⏳ **Yet to Start:** 0 Books
-- 📚 **Total Books:** 0
+- ⏳ **Yet to Start:** 34 Books
+- 📚 **Total Books:** 43
