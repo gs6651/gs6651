@@ -1,18 +1,18 @@
-# 📋 Books to Read
+# 📋 Books to Yet to Start
 
 | Book Name	| Author | Status |
 | :--- | :--- | :--- |
-| 7 Habits of Highly Effective People	|	Stephen Covey	| Done |
+| 7 Habits of Highly Effective People	|	Stephen Covey	| Yet to Start |
 | Atomic Habits	|	James Clear	| Yet to Start |
-| Awareness	|	Osho	| Done |
-| Bhagavad Gita	|	Vyasa	| Read |
-| Can't Hurt Me	|	David Goggins	| Read |
+| Awareness	|	Osho	| Yet to Start |
+| Bhagavad Gita	|	Vyasa	| Yet to Start |
+| Can't Hurt Me	|	David Goggins	| Yet to Start |
 | Deep Work	|	Cal Newport	| Yet to Start |
-| Discipline Is Destiny	|	Ryan Holiday	| Read |
-| Elon Musk	|	Ashlee Vance	| Completed |
+| Discipline Is Destiny	|	Ryan Holiday	| Yet to Start |
+| Elon Musk	|	Ashlee Vance	| Yet to Start |
 | Emotional Intelligence	|	Daniel Goleman	| Yet to Start |
 | From Dreamer to Achiever	|	G.S.6651	| Yet to Start |
-| Get It Done Now	|	Brian Tracy	| Yet to Start |
+| Get It Yet to Start Now	|	Brian Tracy	| Yet to Start |
 | Hooked	|	Nir Eyal	| Yet to Start |
 | How to Win Friends and Influence People	|	Dale Carnegie	| Yet to Start |
 | I Will Teach You to Be Rich	|	Ramit Sethi	| Yet to Start |
@@ -29,7 +29,7 @@
 | The 48 Laws of Power	|	Robert Greene	| Yet to Start |
 | The Alchemist	|	Paulo Coelho	| Yet to Start |
 | The Almanack of Naval Ravikant	|	Eric Jorgenson	| Yet to Start |
-| The Art of Reading People	|	Jo-Ellan Dimitrius	| Yet to Start |
+| The Art of Yet to Starting People	|	Jo-Ellan Dimitrius	| Yet to Start |
 | The Culture Code	|	Daniel Coyle	| Yet to Start |
 | The Design of Everyday Things	|	Don Norman	| Yet to Start |
 | The Happiness Hypothesis	|	Jonathan Haidt	| Yet to Start |
