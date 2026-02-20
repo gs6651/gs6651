@@ -2,14 +2,14 @@
 
 | Book Name	| Author | Status |
 | :--- | :--- | :--- |
-| 7 Habits of Highly Effective People	|	Stephen Covey	| Yet to Start |
+| 7 Habits of Highly Effective People	|	Stephen Covey	| Done |
 | Atomic Habits	|	James Clear	| Yet to Start |
-| Awareness	|	Osho	| Yet to Start |
-| Bhagavad Gita	|	Vyasa	| Yet to Start |
-| Can't Hurt Me	|	David Goggins	| Yet to Start |
+| Awareness	|	Osho	| Done |
+| Bhagavad Gita	|	Vyasa	| Read |
+| Can't Hurt Me	|	David Goggins	| Read |
 | Deep Work	|	Cal Newport	| Yet to Start |
-| Discipline Is Destiny	|	Ryan Holiday	| Yet to Start |
-| Elon Musk	|	Ashlee Vance	| Yet to Start |
+| Discipline Is Destiny	|	Ryan Holiday	| Read |
+| Elon Musk	|	Ashlee Vance	| Completed |
 | Emotional Intelligence	|	Daniel Goleman	| Yet to Start |
 | From Dreamer to Achiever	|	G.S.6651	| Yet to Start |
 | Get It Done Now	|	Brian Tracy	| Yet to Start |
