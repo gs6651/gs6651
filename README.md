@@ -23,7 +23,6 @@ I love exploring how music works. To me, the Guitar 🎸 is like a mathematical 
 **The Vault.** 🔒 Deep-dives into networking architecture, packet analysis, and signal flow. 🛰️
 
 ---
-
 ### 📚 My Reading Journey 📜
 - ✅ **Read:** 0 Books
 - 📖 **Currently Reading:** 0 Books
