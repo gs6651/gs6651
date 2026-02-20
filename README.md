@@ -1,33 +1,31 @@
-# Hi, I'm Gaurav! 👋
+# Hi, I'm Gaurav! 👋 🚀
 
 ### 🐍 Contribution Journey
 ![github contribution grid snake animation](https://github.com/gs6651/gs6651/blob/output/github-contribution-grid-snake.svg)
 
-### 🎸 Harmonic Engineering
-I approach the guitar through the lens of structural analysis. To me, music theory isn't just art—it's the study of harmonic frequencies, wave patterns, and interval mathematics. I treat the fretboard as a six-stringed coordinate system where I debug sonic architecture through rhythmic patterns and signal resonance.
+### 🎸 Music & Math
+I love exploring how music works. To me, the guitar is like a mathematical grid where sounds and rhythms create patterns. I enjoy studying music theory to understand the "science" behind every song I play! 🎶⚡
 
-> **Network Engineer by profession | Linux enthusiast by hobby.**
+> **Network Engineer by profession 🌐 | Guitarist by heart 🎸**
 
----
-
-## 🛠️ The Architecture
-
-### 💻 [Terminal-Center](https://github.com/gs6651/Terminal-Center)
-**The Forge.** Central command hub for automation and system provisioning.
-
-### 📡 [Packet-Foundry](https://github.com/gs6651/Packet-Foundry)
-**The Vault.** Deep-dives into networking architecture and packet analysis.
-
-### 🎸 [Six-String-Sanctuary](https://github.com/gs6651/Six-String-Sanctuary)
-**The Journey.** Progress logs on guitar theory and technical proficiency.
-
-### 🖋️ [The-Inkwell](https://github.com/gs6651/The-Inkwell)
-**The Library.** Knowledge synthesis and curated book summaries.
 
 ---
 
-### 📚 My Reading Journey
-- ✅ **Read:** 0 Books
-- 📖 **Currently Reading:** 0 Books
-- ⏳ **Yet to Start:** 40 Books
+## 🛠️ My Digital Workspace
+
+### 📂 [Main Hub (gs6651)](https://github.com/gs6651/gs6651)
+**The Central Command.** 🏛️ This repo now houses my core interests:
+* 📚 **[Library](./Library/):** Knowledge synthesis and curated book summaries. 📖
+* 🎸 **[Music Theory](./MusicTheory/):** Progress logs on guitar theory and technical proficiency. 🎼
+* ⚙️ **[Windows 11 Setup Guide](./Win11SetupGuide.md):** My personal provisioning workflow. 💻
+
+### 📡 [Networking Notes](https://github.com/gs6651/NetworkingNotes)
+**The Vault.** 🔒 Deep-dives into networking architecture, packet analysis, and signal flow. 🛰️
+
+---
+
+### 📚 My Reading Journey 📜
+- ✅ **Read:** 0 Books 
+- 📖 **Currently Reading:** 0 Books 
+- ⏳ **Yet to Start:** 40 Books 
 - 📚 **Total Books:** 40
