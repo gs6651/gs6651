@@ -5,7 +5,7 @@
 | 7 Habits of Highly Effective People	|	Stephen Covey	| Yet to Start |
 | Atomic Habits	|	James Clear	| Read |
 | Awareness	|	Osho	| Yet to Start |
-| Bhagavad Gita	|	Vyasa	| Yet to Start |
+| Bhagavad Gita	|	Vyasa	| Reading |
 | Can't Hurt Me	|	David Goggins	| Yet to Start |
 | Deep Work	|	Cal Newport	| Yet to Start |
 | Discipline Is Destiny	|	Ryan Holiday	| Yet to Start |
