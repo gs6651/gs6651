@@ -21,7 +21,7 @@ def update_counts():
 
     # 4. Replace the specific lines in README
     readme_content = re.sub(r'(- ✅ \*\*Read:\*\* )\d+', r'\g<1>' + str(done_count), readme_content)
-    readme_content = re.sub(r'(- 📖 \*\*Currently Reading:\*\* )\d+', r'\g<1>' + str(reading_count), readme_content)
+    readme_content = re.sub(r'(- 📖 \*\*Reading:\*\* )\d+', r'\g<1>' + str(reading_count), readme_content)
     readme_content = re.sub(r'(- ⏳ \*\*Yet to Start:\*\* )\d+', r'\g<1>' + str(todo_count), readme_content)
 
     # 5. Save the updated README
