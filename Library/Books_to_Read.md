@@ -2,10 +2,10 @@
 
 | Book Name	| Author | Status |
 | :--- | :--- | :--- |
-| 7 Habits of Highly Effective People	|	Stephen Covey	| Read |
-| Atomic Habits	|	James Clear	| Done |
-| Awareness	|	Osho	| Completed |
-| Bhagavad Gita	|	Vyasa	| Reading |
+| 7 Habits of Highly Effective People	|	Stephen Covey	| Yet to Start |
+| Atomic Habits	|	James Clear	| Yet to Start |
+| Awareness	|	Osho	| Yet to Start |
+| Bhagavad Gita	|	Vyasa	| Yet to Start |
 | Can't Hurt Me	|	David Goggins	| Yet to Start |
 | Deep Work	|	Cal Newport	| Yet to Start |
 | Discipline Is Destiny	|	Ryan Holiday	| Yet to Start |
