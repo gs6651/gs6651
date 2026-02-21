@@ -3,9 +3,9 @@
 | Book Name	| Author | Status |
 | :--- | :--- | :--- |
 | 7 Habits of Highly Effective People	|	Stephen Covey	| Yet to Start |
-| Atomic Habits	|	James Clear	| Read |
+| Atomic Habits	|	James Clear	| Yet to Start |
 | Awareness	|	Osho	| Yet to Start |
-| Bhagavad Gita	|	Vyasa	| Reading |
+| Bhagavad Gita	|	Vyasa	| Yet to Start |
 | Can't Hurt Me	|	David Goggins	| Yet to Start |
 | Deep Work	|	Cal Newport	| Yet to Start |
 | Discipline Is Destiny	|	Ryan Holiday	| Yet to Start |
@@ -42,3 +42,5 @@
 | The Wellness Sense	|	Om Swami	| Yet to Start |
 | Thinking, Fast and Slow	|	Daniel Kahneman	| Yet to Start |
 | Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
+| Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
+| Test Book	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |

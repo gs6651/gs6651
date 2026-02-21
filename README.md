@@ -24,7 +24,7 @@ I love exploring how music works. To me, the Guitar is like a mathematical grid 
 ---
 
 ### 📚 My Reading Journey 📜
-- ✅ **Read:** 1 Books
-- 📖 **Reading:** 1 Books
-- ⏳ **Yet to Start:** 38 Books
-- 📚 **Total Books:** 40
+- ✅ **Read:** 0 Books
+- 📖 **Reading:** 0 Books
+- ⏳ **Yet to Start:** 42 Books
+- 📚 **Total Books:** 42
