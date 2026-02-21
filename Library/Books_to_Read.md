@@ -42,10 +42,3 @@
 | The Wellness Sense	|	Om Swami	| Yet to Start |
 | Thinking, Fast and Slow	|	Daniel Kahneman	| Yet to Start |
 | Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
-| Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
-| Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
-| Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
-| Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
-| Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
-| Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
-| Who, Not How	|	Benjamin Hardy & Dan Sullivan	| Yet to Start |
