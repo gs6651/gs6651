@@ -24,7 +24,7 @@ I love exploring how music works. To me, the Guitars 🎸 are like a mathematica
 ---
 
 ### 📚 My Reading Journey 📜
-- ✅ **Read:** 9 Books
+- ✅ **Read:** 0 Books
 - 📖 **Currently Reading:** 0 Books
-- ⏳ **Yet to Start:** 34 Books
+- ⏳ **Yet to Start:** 40 Books
 - 📚 **Total Books:** 43
