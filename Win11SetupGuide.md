@@ -1,16 +1,18 @@
-# Windows 11 Setup Guide
+# 💻 Windows 11: The Lean & Clean Setup Guide 🚀
 
-> - STOP MAKING PERFECT LINUX DISTRO, BECAUSE THERE ISN'T ANY.
-> - STOP FALLING FOR FIREFOX, CHROME IS MUCH BETTER BOTH ON WINDOWS AND PIXEL PHONE. GOOGLE ANYWAYS KNOWS EVERYTHING ABOUT EVERYONE, THERE IS NO SUCH WAY TO PROTECT YOUR PRIVACY
-> - WINDOWS WORKS ALL THE TIME, YES IT NAGS A BIT TIME TO TIME, BUT USE BELOW GUIDE TO GET THE CONTROL
+> **My Philosophy:** Stop searching for the "perfect" system. Windows works well if you take control of it. This guide helps you remove the noise and keep only what matters. 🛠️
 
-## 1. Initial System Cleanup
-Run this command in an Administrator PowerShell to allow your local sync scripts to run:
+---
 
-`Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
+## 1️⃣ First Step: Enable Scripts
+Before running any automation, you must give Windows permission to run your local scripts.
+1. Right-click the **Start button** and select **Terminal (Admin)**.
+2. Paste this command and press Enter: `Set-ExecutionPolicy RemoteSigned -Scope CurrentUser`
 
-## 2. The Lean Software Stack (via winget)
-These commands install only the core engines and ad-free tools, specifically using MinGit instead of the full Git package to avoid Start Menu clutter.
+---
+
+## 2️⃣ Install Apps (The Easy Way) 📦
+These commands install only the core engines and ad-free tools, specifically using `MinGit` instead of the full Git package to avoid Start Menu clutter.
 
 - Google Chrome: `winget install -e --id Google.Chrome`
 - PowerShell 7: `winget install -e --id Microsoft.PowerShell`
@@ -21,7 +23,9 @@ These commands install only the core engines and ad-free tools, specifically usi
 - Audacity: `winget install -e --id Muse.Audacity`
 - VLC Media Player (Optional): `winget install -e --id VideoLAN.VLC`
 
-## 3. Git Setup
+---
+
+## 3️⃣ Git Setup
 
 Run these two commands to set your identity for your 5 repositories:
 - GitRoot: `C:\Users\Gaurav\Documents\GitLocal`
@@ -66,6 +70,7 @@ $script:GitRoot = "C:\Users\Gaurav\Documents\GitLocal"
 </details>
 
 \
+
 2. gitsync.ps1
 - Save it here: `C:\Users\Gaurav\Documents\PowerShell\gitsync.ps1`
 
@@ -324,7 +329,24 @@ Set-Alias gs gitsync
 ```
 </details>
 
-## Encrypted DNS
+\
+
+3. `pre-commit` hook file
+
+- Save it here: `C:\Users\Gaurav\Documents\GitLocal\gs6651\.git\hooks\pre-commit`
+- Make sure there is no extension to this file
+
+<details>
+<summary>pre-commit</summary>
+
+```shell
+#!/bin/sh
+python update_books.py
+git add README.md
+```
+</details>
+
+## 4️⃣ Encrypted DNS
 
 1. Enable Encrypted DNS
 - Open Settings (Win + I).
