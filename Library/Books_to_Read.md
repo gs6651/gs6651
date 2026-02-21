@@ -3,7 +3,7 @@
 | Book Name	| Author | Status |
 | :--- | :--- | :--- |
 | 7 Habits of Highly Effective People	|	Stephen Covey	| Yet to Start |
-| Atomic Habits	|	James Clear	| Yet to Start |
+| Atomic Habits	|	James Clear	| Read |
 | Awareness	|	Osho	| Yet to Start |
 | Bhagavad Gita	|	Vyasa	| Yet to Start |
 | Can't Hurt Me	|	David Goggins	| Yet to Start |
